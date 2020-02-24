@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Suggs</title>
-      <link>/categories/suggs/</link>
+      <title>Neighbor</title>
+      <link>/categories/neighbor/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/suggs/</guid>
+      <guid>/categories/neighbor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sugg</title>
+      <link>/categories/sugg/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sugg/</guid>
       <description></description>
     </item>
     
